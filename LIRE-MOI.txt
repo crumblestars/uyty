@@ -1,0 +1,9 @@
+INSTALLATION GITHUB PAGES
+
+Décompressez le ZIP et déposez tous les fichiers à la racine du dépôt, sans sous-dossier.
+index.html doit être directement à la racine.
+
+Les deux vidéos de fond (PC et mobile) sont incluses dans le dossier, sans nouvelle compression.
+Les images d’attente sont conservées et chargées en priorité. Les autres vidéos restent sur Cloudinary : conservez-les sur votre compte.
+
+Images d’attente améliorées par IA et enregistrées en WebP haute qualité ; quelques détails des courbes peuvent varier par rapport aux vidéos.
